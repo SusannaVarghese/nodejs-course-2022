@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is nodejs course.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SusannaVarghese/nodejs-course-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusannaVarghese/nodejs-course-2022/issues"
+  },
+  "homepage": "https://github.com/SusannaVarghese/nodejs-course-2022#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
